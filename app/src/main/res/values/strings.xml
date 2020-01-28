@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KryptoNote</string>
+    <string name="cryptoKeyHint">Cryptographic Key</string>
+    <string name="fileNameHint">File Name</string>
+    <string name="encryptButton">ENCRYPT</string>
+    <string name="decryptButton">DECRYPT</string>
+    <string name="saveButton">SAVE</string>
+    <string name="loadButton">LOAD</string>
+    <string name="emptyHint">&#8230;</string>
+</resources>
